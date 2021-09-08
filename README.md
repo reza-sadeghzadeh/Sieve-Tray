@@ -7,3 +7,5 @@ take a look at intro & dov.pdf
 
 # copyright:
  IUT might be involved. !important
+ 
+ توضیحات و شیوه کارکرد در فایل پی دی اف توضیح داده شده است
